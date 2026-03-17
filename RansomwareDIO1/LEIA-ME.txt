@@ -1,0 +1,8 @@
+
+✅ SEUS ARQUIVOS FORAM RESTAURADOS ✅
+
+Todos os arquivos da pasta foram descriptografados com sucesso.
+Este exercício faz parte de um LABORATÓRIO DIDÁTICO de cibersegurança.
+
+Objetivo: compreender como ransomwares funcionam e como se defender.
+Nunca utilize este código fora de ambientes controlados e educacionais.
