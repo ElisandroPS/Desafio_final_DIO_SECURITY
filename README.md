@@ -7,11 +7,7 @@ README:
 - 🔐 **Ransomware simulado** (criptografa arquivos e gera mensagem de resgate).
 - 🔓 **Script de descriptografia** (restaura os arquivos e atualiza a mensagem).
 - ⌨️ **Keylogger simulado** (captura teclas, gera logs e envia por e-mail).
-
-Com base nisso, aqui está o **README.md consolidado** para o seu repositório no GitHub:
-
----
-
+- *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 # 🛡️ Laboratório de Cibersegurança em Python
 
 Este repositório contém a implementação prática de **malwares simulados** em Python — **Ransomware** e **Keylogger** — desenvolvidos em ambiente controlado e com fins **exclusivamente educacionais**.
